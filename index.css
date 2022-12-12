@@ -1,0 +1,88 @@
+body {
+    background: gray;
+}
+
+#main {
+    background: whitesmoke;
+    width: 85%;
+    margin: auto;
+}
+
+#logo {
+    height: 30px;
+    width: 30px;
+}
+
+#headerDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+#headerImg {
+    background-image: url('./assets/rubber-lining-mining-industry.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;
+}
+
+#headerImg {
+    height: 500px;
+}
+
+#headline {
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 50px;
+    color: white;
+}
+
+#teamArea {
+    width: 65%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+#team {
+    color: brown;
+}
+
+#expert {
+    font-size: 40px;
+    width: 1200px;
+}
+
+
+#expertArea {
+    display: flex;
+    justify-content: center;
+}
+
+#details {
+    margin-top: 130px;
+}
+
+.divide {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.divide h1 {
+    font-size: 40px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.plus {
+    width: 20px;
+    height: 20px;
+}
+
+#percentage {
+    display: flex;
+    justify-content: space-between;
+    align-items: centers;
+}
